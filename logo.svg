@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PDF 워크벤치">
+<style>.t{animation:u 3s ease-in-out infinite}.b{animation:d 3s ease-in-out infinite}.c{stroke-dasharray:6 4;animation:m 1s linear infinite}
+@keyframes u{0%,100%{transform:translateX(0)}50%{transform:translateX(3px)}}@keyframes d{0%,100%{transform:translateX(0)}50%{transform:translateX(-3px)}}@keyframes m{to{stroke-dashoffset:-10}}
+@media(prefers-reduced-motion:reduce){.t,.b,.c{animation:none}}</style>
 <rect width="64" height="64" fill="#1b2bd6"/>
-<path d="M12 9h23l9 9v14H12z" fill="#fff"/>
-<path d="M35 9v9h9z" fill="#b9bff7"/>
-<rect x="20" y="34" width="32" height="21" fill="#fff"/>
-<path d="M6 32.5h52" stroke="#ffd400" stroke-width="3" stroke-dasharray="6 4"/>
+<g class="t"><path d="M12 9h23l9 9v14H12z" fill="#fff"/><path d="M35 9v9h9z" fill="#b9bff7"/></g>
+<g class="b"><rect x="20" y="34" width="32" height="21" fill="#fff"/></g>
+<path class="c" d="M6 32.5h52" stroke="#ffd400" stroke-width="3" fill="none"/>
 </svg>
