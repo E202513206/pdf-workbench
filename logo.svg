@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PDF 워크벤치">
+<rect width="64" height="64" fill="#1b2bd6"/>
+<path d="M12 9h23l9 9v14H12z" fill="#fff"/>
+<path d="M35 9v9h9z" fill="#b9bff7"/>
+<rect x="20" y="34" width="32" height="21" fill="#fff"/>
+<path d="M6 32.5h52" stroke="#ffd400" stroke-width="3" stroke-dasharray="6 4"/>
+</svg>
